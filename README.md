@@ -11,8 +11,8 @@
 
 ## 🚀 Getting started
 
-$ git clone git@github.com:Jefferzom/desafio01-trilha-react-desafio-complementar.git && cd desafio01-trilha-react-desafio-complementar
-Follow the steps below
+Começe dando o comando -> git clone https://github.com/Jefferzom/desafio01-trilha-react-desafio-complementar.git && cd desafio01-trilha-react-desafio-complementar
+no seu terminal com o terminal aberto.
 
 # Install the dependencies
  1) yarn
